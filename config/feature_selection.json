@@ -1,0 +1,464 @@
+{
+    "simulations": {
+        "simulation 1": {
+            "description": "feature selection",
+            "features": [
+                "Fund_Freq1"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 2": {
+            "description": "feature selection",
+            "features": [
+                "Fund_Freq1"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 3": {
+            "description": "feature selection",
+            "features": [
+                "Fund_Freq2"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 4": {
+            "description": "feature selection",
+            "features": [
+                "Fund_Freq2"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 5": {
+            "description": "feature selection",
+            "features": [
+                "PGA_of_the_recording_scale_1"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 6": {
+            "description": "feature selection",
+            "features": [
+                "PGA_of_the_recording_scale_1"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 7": {
+            "description": "feature selection",
+            "features": [
+                "PGA_of_the_recording_scale_2"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 8": {
+            "description": "feature selection",
+            "features": [
+                "PGA_of_the_recording_scale_2"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 9": {
+            "description": "feature selection",
+            "features": [
+                "b_Hieght"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 10": {
+            "description": "feature selection",
+            "features": [
+                "b_Hieght"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 11": {
+            "description": "feature selection",
+            "features": [
+                "dim_x"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 12": {
+            "description": "feature selection",
+            "features": [
+                "dim_x"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 13": {
+            "description": "feature selection",
+            "features": [
+                "dim_y"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 14": {
+            "description": "feature selection",
+            "features": [
+                "dim_y"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 15": {
+            "description": "feature selection",
+            "features": [
+                "b_st"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 16": {
+            "description": "feature selection",
+            "features": [
+                "b_st"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 17": {
+            "description": "feature selection",
+            "features": [
+                "h_st"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 18": {
+            "description": "feature selection",
+            "features": [
+                "h_st"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 19": {
+            "description": "feature selection",
+            "features": [
+                "b_gr"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 20": {
+            "description": "feature selection",
+            "features": [
+                "b_gr"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 21": {
+            "description": "feature selection",
+            "features": [
+                "h_gr"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 22": {
+            "description": "feature selection",
+            "features": [
+                "h_gr"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 23": {
+            "description": "feature selection",
+            "features": [
+                "E"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 24": {
+            "description": "feature selection",
+            "features": [
+                "E"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 25": {
+            "description": "feature selection",
+            "features": [
+                "MstY"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 26": {
+            "description": "feature selection",
+            "features": [
+                "MstY"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 27": {
+            "description": "feature selection",
+            "features": [
+                "MstX"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 28": {
+            "description": "feature selection",
+            "features": [
+                "MstX"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 29": {
+            "description": "feature selection",
+            "features": [
+                "Mgr"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 30": {
+            "description": "feature selection",
+            "features": [
+                "Mgr"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 31": {
+            "description": "feature selection",
+            "features": [
+                "Lshape"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 32": {
+            "description": "feature selection",
+            "features": [
+                "Lshape"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 33": {
+            "description": "feature selection",
+            "features": [
+                "bay2"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 34": {
+            "description": "feature selection",
+            "features": [
+                "bay2"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 35": {
+            "description": "feature selection",
+            "features": [
+                "no_span_2"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 36": {
+            "description": "feature selection",
+            "features": [
+                "no_span_2"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 37": {
+            "description": "feature selection",
+            "features": [
+                "no_bay_2"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 38": {
+            "description": "feature selection",
+            "features": [
+                "no_bay_2"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 39": {
+            "description": "feature selection",
+            "features": [
+                "no_story_2"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 40": {
+            "description": "feature selection",
+            "features": [
+                "no_story_2"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 41": {
+            "description": "feature selection",
+            "features": [
+                "T1"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 42": {
+            "description": "feature selection",
+            "features": [
+                "T1"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 43": {
+            "description": "feature selection",
+            "features": [
+                "T2"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 44": {
+            "description": "feature selection",
+            "features": [
+                "T2"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 45": {
+            "description": "feature selection",
+            "features": [
+                "T3"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 46": {
+            "description": "feature selection",
+            "features": [
+                "T3"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        }
+    }
+}

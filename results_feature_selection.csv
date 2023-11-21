@@ -1,0 +1,829 @@
+Simulation,Description,Features,Hyper-params,Model,Data type,Indicator,Value
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,test,MAE,0.37
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,test,MSE,0.24
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,test,R2,0.02
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,train,MAE,0.37
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,train,MSE,0.23
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,train,R2,0.02
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,test,MAE,0.39
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,test,MSE,0.24
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,test,R2,-0.02
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,train,MAE,0.38
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,train,MSE,0.24
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,train,R2,-0.01
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,test,MAE,0.37
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,test,MSE,0.24
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,test,R2,0.02
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,train,MAE,0.37
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,train,MSE,0.23
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,train,R2,0.01
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,test,MAE,0.37
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,test,MSE,0.25
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,test,R2,-0.04
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,train,MAE,0.37
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,train,MSE,0.24
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,train,R2,-0.03
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,test,MAE,0.33
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,test,MSE,0.2
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,test,R2,0.19
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,train,MAE,0.33
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,train,MSE,0.19
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,train,R2,0.18
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,test,MAE,0.28
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,test,MSE,0.16
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,test,R2,0.32
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,train,MAE,0.25
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,train,MSE,0.13
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,train,R2,0.45
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,test,MAE,0.34
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,test,MSE,0.21
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,test,R2,0.13
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,train,MAE,0.34
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,train,MSE,0.21
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,train,R2,0.14
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,test,MAE,0.3
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,test,MSE,0.18
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,test,R2,0.26
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,train,MAE,0.26
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,train,MSE,0.14
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,train,R2,0.42
+simulation 9,feature selection,b_Hieght,{},Linear regression,test,MAE,0.32
+simulation 9,feature selection,b_Hieght,{},Linear regression,test,MSE,0.2
+simulation 9,feature selection,b_Hieght,{},Linear regression,test,R2,0.18
+simulation 9,feature selection,b_Hieght,{},Linear regression,train,MAE,0.32
+simulation 9,feature selection,b_Hieght,{},Linear regression,train,MSE,0.19
+simulation 9,feature selection,b_Hieght,{},Linear regression,train,R2,0.18
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,test,MAE,0.35
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,test,MSE,0.24
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,test,R2,0.02
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,train,MAE,0.35
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,train,MSE,0.23
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,train,R2,0.04
+simulation 11,feature selection,dim_x,{},Linear regression,test,MAE,0.37
+simulation 11,feature selection,dim_x,{},Linear regression,test,MSE,0.24
+simulation 11,feature selection,dim_x,{},Linear regression,test,R2,0.0
+simulation 11,feature selection,dim_x,{},Linear regression,train,MAE,0.37
+simulation 11,feature selection,dim_x,{},Linear regression,train,MSE,0.24
+simulation 11,feature selection,dim_x,{},Linear regression,train,R2,0.0
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,test,MAE,0.41
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,test,MSE,0.28
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,test,R2,-0.18
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,train,MAE,0.41
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,train,MSE,0.29
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,train,R2,-0.21
+simulation 13,feature selection,dim_y,{},Linear regression,test,MAE,0.37
+simulation 13,feature selection,dim_y,{},Linear regression,test,MSE,0.24
+simulation 13,feature selection,dim_y,{},Linear regression,test,R2,-0.0
+simulation 13,feature selection,dim_y,{},Linear regression,train,MAE,0.37
+simulation 13,feature selection,dim_y,{},Linear regression,train,MSE,0.24
+simulation 13,feature selection,dim_y,{},Linear regression,train,R2,0.0
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,test,MAE,0.41
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,test,MSE,0.29
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,test,R2,-0.19
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,train,MAE,0.4
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,train,MSE,0.28
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,train,R2,-0.19
+simulation 15,feature selection,b_st,{},Linear regression,test,MAE,0.32
+simulation 15,feature selection,b_st,{},Linear regression,test,MSE,0.2
+simulation 15,feature selection,b_st,{},Linear regression,test,R2,0.17
+simulation 15,feature selection,b_st,{},Linear regression,train,MAE,0.32
+simulation 15,feature selection,b_st,{},Linear regression,train,MSE,0.19
+simulation 15,feature selection,b_st,{},Linear regression,train,R2,0.18
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,test,MAE,0.39
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,test,MSE,0.26
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,test,R2,-0.1
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,train,MAE,0.39
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,train,MSE,0.26
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,train,R2,-0.12
+simulation 17,feature selection,h_st,{},Linear regression,test,MAE,0.32
+simulation 17,feature selection,h_st,{},Linear regression,test,MSE,0.19
+simulation 17,feature selection,h_st,{},Linear regression,test,R2,0.19
+simulation 17,feature selection,h_st,{},Linear regression,train,MAE,0.32
+simulation 17,feature selection,h_st,{},Linear regression,train,MSE,0.19
+simulation 17,feature selection,h_st,{},Linear regression,train,R2,0.2
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,test,MAE,0.36
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,test,MSE,0.24
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,test,R2,0.01
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,train,MAE,0.36
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,train,MSE,0.23
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,train,R2,0.02
+simulation 19,feature selection,b_gr,{},Linear regression,test,MAE,0.37
+simulation 19,feature selection,b_gr,{},Linear regression,test,MSE,0.24
+simulation 19,feature selection,b_gr,{},Linear regression,test,R2,-0.0
+simulation 19,feature selection,b_gr,{},Linear regression,train,MAE,0.37
+simulation 19,feature selection,b_gr,{},Linear regression,train,MSE,0.24
+simulation 19,feature selection,b_gr,{},Linear regression,train,R2,0.0
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,test,MAE,0.4
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,test,MSE,0.28
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,test,R2,-0.15
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,train,MAE,0.4
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,train,MSE,0.27
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,train,R2,-0.15
+simulation 21,feature selection,h_gr,{},Linear regression,test,MAE,0.37
+simulation 21,feature selection,h_gr,{},Linear regression,test,MSE,0.24
+simulation 21,feature selection,h_gr,{},Linear regression,test,R2,0.0
+simulation 21,feature selection,h_gr,{},Linear regression,train,MAE,0.37
+simulation 21,feature selection,h_gr,{},Linear regression,train,MSE,0.24
+simulation 21,feature selection,h_gr,{},Linear regression,train,R2,0.0
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,test,MAE,0.39
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,test,MSE,0.26
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,test,R2,-0.1
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,train,MAE,0.39
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,train,MSE,0.26
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,train,R2,-0.1
+simulation 23,feature selection,E,{},Linear regression,test,MAE,0.37
+simulation 23,feature selection,E,{},Linear regression,test,MSE,0.24
+simulation 23,feature selection,E,{},Linear regression,test,R2,0.0
+simulation 23,feature selection,E,{},Linear regression,train,MAE,0.37
+simulation 23,feature selection,E,{},Linear regression,train,MSE,0.24
+simulation 23,feature selection,E,{},Linear regression,train,R2,0.0
+simulation 24,feature selection,E,{},K Nearest Neighbours,test,MAE,0.28
+simulation 24,feature selection,E,{},K Nearest Neighbours,test,MSE,0.18
+simulation 24,feature selection,E,{},K Nearest Neighbours,test,R2,0.26
+simulation 24,feature selection,E,{},K Nearest Neighbours,train,MAE,0.23
+simulation 24,feature selection,E,{},K Nearest Neighbours,train,MSE,0.13
+simulation 24,feature selection,E,{},K Nearest Neighbours,train,R2,0.47
+simulation 25,feature selection,MstY,{},Linear regression,test,MAE,0.33
+simulation 25,feature selection,MstY,{},Linear regression,test,MSE,0.2
+simulation 25,feature selection,MstY,{},Linear regression,test,R2,0.17
+simulation 25,feature selection,MstY,{},Linear regression,train,MAE,0.32
+simulation 25,feature selection,MstY,{},Linear regression,train,MSE,0.2
+simulation 25,feature selection,MstY,{},Linear regression,train,R2,0.17
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,test,MAE,0.36
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,test,MSE,0.24
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,test,R2,0.01
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,train,MAE,0.36
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,train,MSE,0.23
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,train,R2,0.01
+simulation 27,feature selection,MstX,{},Linear regression,test,MAE,0.33
+simulation 27,feature selection,MstX,{},Linear regression,test,MSE,0.2
+simulation 27,feature selection,MstX,{},Linear regression,test,R2,0.15
+simulation 27,feature selection,MstX,{},Linear regression,train,MAE,0.33
+simulation 27,feature selection,MstX,{},Linear regression,train,MSE,0.2
+simulation 27,feature selection,MstX,{},Linear regression,train,R2,0.15
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,test,MAE,0.3
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,test,MSE,0.19
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,test,R2,0.2
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,train,MAE,0.28
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,train,MSE,0.16
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,train,R2,0.32
+simulation 29,feature selection,Mgr,{},Linear regression,test,MAE,0.37
+simulation 29,feature selection,Mgr,{},Linear regression,test,MSE,0.24
+simulation 29,feature selection,Mgr,{},Linear regression,test,R2,0.0
+simulation 29,feature selection,Mgr,{},Linear regression,train,MAE,0.37
+simulation 29,feature selection,Mgr,{},Linear regression,train,MSE,0.24
+simulation 29,feature selection,Mgr,{},Linear regression,train,R2,0.0
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,test,MAE,0.39
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,test,MSE,0.27
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,test,R2,-0.11
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,train,MAE,0.38
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,train,MSE,0.25
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,train,R2,-0.07
+simulation 31,feature selection,Lshape,{},Linear regression,test,MAE,0.37
+simulation 31,feature selection,Lshape,{},Linear regression,test,MSE,0.24
+simulation 31,feature selection,Lshape,{},Linear regression,test,R2,0.0
+simulation 31,feature selection,Lshape,{},Linear regression,train,MAE,0.37
+simulation 31,feature selection,Lshape,{},Linear regression,train,MSE,0.24
+simulation 31,feature selection,Lshape,{},Linear regression,train,R2,0.0
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,test,MAE,0.37
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,test,MSE,0.24
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,test,R2,-0.01
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,train,MAE,0.36
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,train,MSE,0.24
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,train,R2,-0.01
+simulation 33,feature selection,bay2,{},Linear regression,test,MAE,0.37
+simulation 33,feature selection,bay2,{},Linear regression,test,MSE,0.24
+simulation 33,feature selection,bay2,{},Linear regression,test,R2,0.0
+simulation 33,feature selection,bay2,{},Linear regression,train,MAE,0.37
+simulation 33,feature selection,bay2,{},Linear regression,train,MSE,0.24
+simulation 33,feature selection,bay2,{},Linear regression,train,R2,0.0
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,test,MAE,0.38
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,test,MSE,0.26
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,test,R2,-0.08
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,train,MAE,0.38
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,train,MSE,0.25
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,train,R2,-0.07
+simulation 35,feature selection,no_span_2,{},Linear regression,test,MAE,0.37
+simulation 35,feature selection,no_span_2,{},Linear regression,test,MSE,0.24
+simulation 35,feature selection,no_span_2,{},Linear regression,test,R2,0.0
+simulation 35,feature selection,no_span_2,{},Linear regression,train,MAE,0.37
+simulation 35,feature selection,no_span_2,{},Linear regression,train,MSE,0.24
+simulation 35,feature selection,no_span_2,{},Linear regression,train,R2,0.0
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,test,MAE,0.37
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,test,MSE,0.25
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,test,R2,-0.03
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,train,MAE,0.37
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,train,MSE,0.24
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,train,R2,-0.03
+simulation 37,feature selection,no_bay_2,{},Linear regression,test,MAE,0.37
+simulation 37,feature selection,no_bay_2,{},Linear regression,test,MSE,0.24
+simulation 37,feature selection,no_bay_2,{},Linear regression,test,R2,0.0
+simulation 37,feature selection,no_bay_2,{},Linear regression,train,MAE,0.37
+simulation 37,feature selection,no_bay_2,{},Linear regression,train,MSE,0.24
+simulation 37,feature selection,no_bay_2,{},Linear regression,train,R2,0.0
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,test,MAE,0.4
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,test,MSE,0.28
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,test,R2,-0.15
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,train,MAE,0.4
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,train,MSE,0.27
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,train,R2,-0.15
+simulation 39,feature selection,no_story_2,{},Linear regression,test,MAE,0.37
+simulation 39,feature selection,no_story_2,{},Linear regression,test,MSE,0.24
+simulation 39,feature selection,no_story_2,{},Linear regression,test,R2,0.01
+simulation 39,feature selection,no_story_2,{},Linear regression,train,MAE,0.37
+simulation 39,feature selection,no_story_2,{},Linear regression,train,MSE,0.24
+simulation 39,feature selection,no_story_2,{},Linear regression,train,R2,0.01
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,test,MAE,0.37
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,test,MSE,0.24
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,test,R2,0.02
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,train,MAE,0.36
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,train,MSE,0.23
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,train,R2,0.02
+simulation 41,feature selection,T1,{},Linear regression,test,MAE,0.34
+simulation 41,feature selection,T1,{},Linear regression,test,MSE,0.21
+simulation 41,feature selection,T1,{},Linear regression,test,R2,0.12
+simulation 41,feature selection,T1,{},Linear regression,train,MAE,0.34
+simulation 41,feature selection,T1,{},Linear regression,train,MSE,0.21
+simulation 41,feature selection,T1,{},Linear regression,train,R2,0.12
+simulation 42,feature selection,T1,{},K Nearest Neighbours,test,MAE,0.24
+simulation 42,feature selection,T1,{},K Nearest Neighbours,test,MSE,0.15
+simulation 42,feature selection,T1,{},K Nearest Neighbours,test,R2,0.39
+simulation 42,feature selection,T1,{},K Nearest Neighbours,train,MAE,0.2
+simulation 42,feature selection,T1,{},K Nearest Neighbours,train,MSE,0.1
+simulation 42,feature selection,T1,{},K Nearest Neighbours,train,R2,0.59
+simulation 43,feature selection,T2,{},Linear regression,test,MAE,0.34
+simulation 43,feature selection,T2,{},Linear regression,test,MSE,0.21
+simulation 43,feature selection,T2,{},Linear regression,test,R2,0.12
+simulation 43,feature selection,T2,{},Linear regression,train,MAE,0.34
+simulation 43,feature selection,T2,{},Linear regression,train,MSE,0.21
+simulation 43,feature selection,T2,{},Linear regression,train,R2,0.12
+simulation 44,feature selection,T2,{},K Nearest Neighbours,test,MAE,0.24
+simulation 44,feature selection,T2,{},K Nearest Neighbours,test,MSE,0.15
+simulation 44,feature selection,T2,{},K Nearest Neighbours,test,R2,0.39
+simulation 44,feature selection,T2,{},K Nearest Neighbours,train,MAE,0.19
+simulation 44,feature selection,T2,{},K Nearest Neighbours,train,MSE,0.09
+simulation 44,feature selection,T2,{},K Nearest Neighbours,train,R2,0.6
+simulation 45,feature selection,T3,{},Linear regression,test,MAE,0.34
+simulation 45,feature selection,T3,{},Linear regression,test,MSE,0.21
+simulation 45,feature selection,T3,{},Linear regression,test,R2,0.12
+simulation 45,feature selection,T3,{},Linear regression,train,MAE,0.34
+simulation 45,feature selection,T3,{},Linear regression,train,MSE,0.21
+simulation 45,feature selection,T3,{},Linear regression,train,R2,0.12
+simulation 46,feature selection,T3,{},K Nearest Neighbours,test,MAE,0.24
+simulation 46,feature selection,T3,{},K Nearest Neighbours,test,MSE,0.15
+simulation 46,feature selection,T3,{},K Nearest Neighbours,test,R2,0.39
+simulation 46,feature selection,T3,{},K Nearest Neighbours,train,MAE,0.19
+simulation 46,feature selection,T3,{},K Nearest Neighbours,train,MSE,0.09
+simulation 46,feature selection,T3,{},K Nearest Neighbours,train,R2,0.6
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,test,MAE,0.37
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,test,MSE,0.24
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,test,R2,0.02
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,train,MAE,0.37
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,train,MSE,0.23
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,train,R2,0.02
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,test,MAE,0.39
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,test,MSE,0.24
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,test,R2,-0.02
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,train,MAE,0.38
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,train,MSE,0.24
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,train,R2,-0.01
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,test,MAE,0.37
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,test,MSE,0.24
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,test,R2,0.02
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,train,MAE,0.37
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,train,MSE,0.23
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,train,R2,0.01
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,test,MAE,0.37
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,test,MSE,0.25
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,test,R2,-0.04
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,train,MAE,0.37
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,train,MSE,0.24
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,train,R2,-0.03
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,test,MAE,0.33
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,test,MSE,0.2
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,test,R2,0.19
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,train,MAE,0.33
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,train,MSE,0.19
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,train,R2,0.18
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,test,MAE,0.28
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,test,MSE,0.16
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,test,R2,0.32
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,train,MAE,0.25
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,train,MSE,0.13
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,train,R2,0.45
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,test,MAE,0.34
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,test,MSE,0.21
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,test,R2,0.13
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,train,MAE,0.34
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,train,MSE,0.21
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,train,R2,0.14
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,test,MAE,0.3
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,test,MSE,0.18
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,test,R2,0.26
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,train,MAE,0.26
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,train,MSE,0.14
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,train,R2,0.42
+simulation 9,feature selection,b_Hieght,{},Linear regression,test,MAE,0.32
+simulation 9,feature selection,b_Hieght,{},Linear regression,test,MSE,0.2
+simulation 9,feature selection,b_Hieght,{},Linear regression,test,R2,0.18
+simulation 9,feature selection,b_Hieght,{},Linear regression,train,MAE,0.32
+simulation 9,feature selection,b_Hieght,{},Linear regression,train,MSE,0.19
+simulation 9,feature selection,b_Hieght,{},Linear regression,train,R2,0.18
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,test,MAE,0.35
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,test,MSE,0.24
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,test,R2,0.02
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,train,MAE,0.35
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,train,MSE,0.23
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,train,R2,0.04
+simulation 11,feature selection,dim_x,{},Linear regression,test,MAE,0.37
+simulation 11,feature selection,dim_x,{},Linear regression,test,MSE,0.24
+simulation 11,feature selection,dim_x,{},Linear regression,test,R2,0.0
+simulation 11,feature selection,dim_x,{},Linear regression,train,MAE,0.37
+simulation 11,feature selection,dim_x,{},Linear regression,train,MSE,0.24
+simulation 11,feature selection,dim_x,{},Linear regression,train,R2,0.0
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,test,MAE,0.41
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,test,MSE,0.28
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,test,R2,-0.18
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,train,MAE,0.41
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,train,MSE,0.29
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,train,R2,-0.21
+simulation 13,feature selection,dim_y,{},Linear regression,test,MAE,0.37
+simulation 13,feature selection,dim_y,{},Linear regression,test,MSE,0.24
+simulation 13,feature selection,dim_y,{},Linear regression,test,R2,-0.0
+simulation 13,feature selection,dim_y,{},Linear regression,train,MAE,0.37
+simulation 13,feature selection,dim_y,{},Linear regression,train,MSE,0.24
+simulation 13,feature selection,dim_y,{},Linear regression,train,R2,0.0
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,test,MAE,0.41
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,test,MSE,0.29
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,test,R2,-0.19
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,train,MAE,0.4
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,train,MSE,0.28
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,train,R2,-0.19
+simulation 15,feature selection,b_st,{},Linear regression,test,MAE,0.32
+simulation 15,feature selection,b_st,{},Linear regression,test,MSE,0.2
+simulation 15,feature selection,b_st,{},Linear regression,test,R2,0.17
+simulation 15,feature selection,b_st,{},Linear regression,train,MAE,0.32
+simulation 15,feature selection,b_st,{},Linear regression,train,MSE,0.19
+simulation 15,feature selection,b_st,{},Linear regression,train,R2,0.18
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,test,MAE,0.39
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,test,MSE,0.26
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,test,R2,-0.1
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,train,MAE,0.39
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,train,MSE,0.26
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,train,R2,-0.12
+simulation 17,feature selection,h_st,{},Linear regression,test,MAE,0.32
+simulation 17,feature selection,h_st,{},Linear regression,test,MSE,0.19
+simulation 17,feature selection,h_st,{},Linear regression,test,R2,0.19
+simulation 17,feature selection,h_st,{},Linear regression,train,MAE,0.32
+simulation 17,feature selection,h_st,{},Linear regression,train,MSE,0.19
+simulation 17,feature selection,h_st,{},Linear regression,train,R2,0.2
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,test,MAE,0.36
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,test,MSE,0.24
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,test,R2,0.01
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,train,MAE,0.36
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,train,MSE,0.23
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,train,R2,0.02
+simulation 19,feature selection,b_gr,{},Linear regression,test,MAE,0.37
+simulation 19,feature selection,b_gr,{},Linear regression,test,MSE,0.24
+simulation 19,feature selection,b_gr,{},Linear regression,test,R2,-0.0
+simulation 19,feature selection,b_gr,{},Linear regression,train,MAE,0.37
+simulation 19,feature selection,b_gr,{},Linear regression,train,MSE,0.24
+simulation 19,feature selection,b_gr,{},Linear regression,train,R2,0.0
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,test,MAE,0.4
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,test,MSE,0.28
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,test,R2,-0.15
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,train,MAE,0.4
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,train,MSE,0.27
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,train,R2,-0.15
+simulation 21,feature selection,h_gr,{},Linear regression,test,MAE,0.37
+simulation 21,feature selection,h_gr,{},Linear regression,test,MSE,0.24
+simulation 21,feature selection,h_gr,{},Linear regression,test,R2,0.0
+simulation 21,feature selection,h_gr,{},Linear regression,train,MAE,0.37
+simulation 21,feature selection,h_gr,{},Linear regression,train,MSE,0.24
+simulation 21,feature selection,h_gr,{},Linear regression,train,R2,0.0
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,test,MAE,0.39
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,test,MSE,0.26
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,test,R2,-0.1
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,train,MAE,0.39
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,train,MSE,0.26
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,train,R2,-0.1
+simulation 23,feature selection,E,{},Linear regression,test,MAE,0.37
+simulation 23,feature selection,E,{},Linear regression,test,MSE,0.24
+simulation 23,feature selection,E,{},Linear regression,test,R2,0.0
+simulation 23,feature selection,E,{},Linear regression,train,MAE,0.37
+simulation 23,feature selection,E,{},Linear regression,train,MSE,0.24
+simulation 23,feature selection,E,{},Linear regression,train,R2,0.0
+simulation 24,feature selection,E,{},K Nearest Neighbours,test,MAE,0.28
+simulation 24,feature selection,E,{},K Nearest Neighbours,test,MSE,0.18
+simulation 24,feature selection,E,{},K Nearest Neighbours,test,R2,0.26
+simulation 24,feature selection,E,{},K Nearest Neighbours,train,MAE,0.23
+simulation 24,feature selection,E,{},K Nearest Neighbours,train,MSE,0.13
+simulation 24,feature selection,E,{},K Nearest Neighbours,train,R2,0.47
+simulation 25,feature selection,MstY,{},Linear regression,test,MAE,0.33
+simulation 25,feature selection,MstY,{},Linear regression,test,MSE,0.2
+simulation 25,feature selection,MstY,{},Linear regression,test,R2,0.17
+simulation 25,feature selection,MstY,{},Linear regression,train,MAE,0.32
+simulation 25,feature selection,MstY,{},Linear regression,train,MSE,0.2
+simulation 25,feature selection,MstY,{},Linear regression,train,R2,0.17
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,test,MAE,0.36
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,test,MSE,0.24
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,test,R2,0.01
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,train,MAE,0.36
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,train,MSE,0.23
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,train,R2,0.01
+simulation 27,feature selection,MstX,{},Linear regression,test,MAE,0.33
+simulation 27,feature selection,MstX,{},Linear regression,test,MSE,0.2
+simulation 27,feature selection,MstX,{},Linear regression,test,R2,0.15
+simulation 27,feature selection,MstX,{},Linear regression,train,MAE,0.33
+simulation 27,feature selection,MstX,{},Linear regression,train,MSE,0.2
+simulation 27,feature selection,MstX,{},Linear regression,train,R2,0.15
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,test,MAE,0.3
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,test,MSE,0.19
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,test,R2,0.2
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,train,MAE,0.28
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,train,MSE,0.16
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,train,R2,0.32
+simulation 29,feature selection,Mgr,{},Linear regression,test,MAE,0.37
+simulation 29,feature selection,Mgr,{},Linear regression,test,MSE,0.24
+simulation 29,feature selection,Mgr,{},Linear regression,test,R2,0.0
+simulation 29,feature selection,Mgr,{},Linear regression,train,MAE,0.37
+simulation 29,feature selection,Mgr,{},Linear regression,train,MSE,0.24
+simulation 29,feature selection,Mgr,{},Linear regression,train,R2,0.0
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,test,MAE,0.39
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,test,MSE,0.27
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,test,R2,-0.11
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,train,MAE,0.38
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,train,MSE,0.25
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,train,R2,-0.07
+simulation 31,feature selection,Lshape,{},Linear regression,test,MAE,0.37
+simulation 31,feature selection,Lshape,{},Linear regression,test,MSE,0.24
+simulation 31,feature selection,Lshape,{},Linear regression,test,R2,0.0
+simulation 31,feature selection,Lshape,{},Linear regression,train,MAE,0.37
+simulation 31,feature selection,Lshape,{},Linear regression,train,MSE,0.24
+simulation 31,feature selection,Lshape,{},Linear regression,train,R2,0.0
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,test,MAE,0.37
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,test,MSE,0.24
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,test,R2,-0.01
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,train,MAE,0.36
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,train,MSE,0.24
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,train,R2,-0.01
+simulation 33,feature selection,bay2,{},Linear regression,test,MAE,0.37
+simulation 33,feature selection,bay2,{},Linear regression,test,MSE,0.24
+simulation 33,feature selection,bay2,{},Linear regression,test,R2,0.0
+simulation 33,feature selection,bay2,{},Linear regression,train,MAE,0.37
+simulation 33,feature selection,bay2,{},Linear regression,train,MSE,0.24
+simulation 33,feature selection,bay2,{},Linear regression,train,R2,0.0
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,test,MAE,0.38
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,test,MSE,0.26
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,test,R2,-0.08
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,train,MAE,0.38
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,train,MSE,0.25
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,train,R2,-0.07
+simulation 35,feature selection,no_span_2,{},Linear regression,test,MAE,0.37
+simulation 35,feature selection,no_span_2,{},Linear regression,test,MSE,0.24
+simulation 35,feature selection,no_span_2,{},Linear regression,test,R2,0.0
+simulation 35,feature selection,no_span_2,{},Linear regression,train,MAE,0.37
+simulation 35,feature selection,no_span_2,{},Linear regression,train,MSE,0.24
+simulation 35,feature selection,no_span_2,{},Linear regression,train,R2,0.0
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,test,MAE,0.37
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,test,MSE,0.25
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,test,R2,-0.03
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,train,MAE,0.37
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,train,MSE,0.24
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,train,R2,-0.03
+simulation 37,feature selection,no_bay_2,{},Linear regression,test,MAE,0.37
+simulation 37,feature selection,no_bay_2,{},Linear regression,test,MSE,0.24
+simulation 37,feature selection,no_bay_2,{},Linear regression,test,R2,0.0
+simulation 37,feature selection,no_bay_2,{},Linear regression,train,MAE,0.37
+simulation 37,feature selection,no_bay_2,{},Linear regression,train,MSE,0.24
+simulation 37,feature selection,no_bay_2,{},Linear regression,train,R2,0.0
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,test,MAE,0.4
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,test,MSE,0.28
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,test,R2,-0.15
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,train,MAE,0.4
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,train,MSE,0.27
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,train,R2,-0.15
+simulation 39,feature selection,no_story_2,{},Linear regression,test,MAE,0.37
+simulation 39,feature selection,no_story_2,{},Linear regression,test,MSE,0.24
+simulation 39,feature selection,no_story_2,{},Linear regression,test,R2,0.01
+simulation 39,feature selection,no_story_2,{},Linear regression,train,MAE,0.37
+simulation 39,feature selection,no_story_2,{},Linear regression,train,MSE,0.24
+simulation 39,feature selection,no_story_2,{},Linear regression,train,R2,0.01
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,test,MAE,0.37
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,test,MSE,0.24
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,test,R2,0.02
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,train,MAE,0.36
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,train,MSE,0.23
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,train,R2,0.02
+simulation 41,feature selection,T1,{},Linear regression,test,MAE,0.34
+simulation 41,feature selection,T1,{},Linear regression,test,MSE,0.21
+simulation 41,feature selection,T1,{},Linear regression,test,R2,0.12
+simulation 41,feature selection,T1,{},Linear regression,train,MAE,0.34
+simulation 41,feature selection,T1,{},Linear regression,train,MSE,0.21
+simulation 41,feature selection,T1,{},Linear regression,train,R2,0.12
+simulation 42,feature selection,T1,{},K Nearest Neighbours,test,MAE,0.24
+simulation 42,feature selection,T1,{},K Nearest Neighbours,test,MSE,0.15
+simulation 42,feature selection,T1,{},K Nearest Neighbours,test,R2,0.39
+simulation 42,feature selection,T1,{},K Nearest Neighbours,train,MAE,0.2
+simulation 42,feature selection,T1,{},K Nearest Neighbours,train,MSE,0.1
+simulation 42,feature selection,T1,{},K Nearest Neighbours,train,R2,0.59
+simulation 43,feature selection,T2,{},Linear regression,test,MAE,0.34
+simulation 43,feature selection,T2,{},Linear regression,test,MSE,0.21
+simulation 43,feature selection,T2,{},Linear regression,test,R2,0.12
+simulation 43,feature selection,T2,{},Linear regression,train,MAE,0.34
+simulation 43,feature selection,T2,{},Linear regression,train,MSE,0.21
+simulation 43,feature selection,T2,{},Linear regression,train,R2,0.12
+simulation 44,feature selection,T2,{},K Nearest Neighbours,test,MAE,0.24
+simulation 44,feature selection,T2,{},K Nearest Neighbours,test,MSE,0.15
+simulation 44,feature selection,T2,{},K Nearest Neighbours,test,R2,0.39
+simulation 44,feature selection,T2,{},K Nearest Neighbours,train,MAE,0.19
+simulation 44,feature selection,T2,{},K Nearest Neighbours,train,MSE,0.09
+simulation 44,feature selection,T2,{},K Nearest Neighbours,train,R2,0.6
+simulation 45,feature selection,T3,{},Linear regression,test,MAE,0.34
+simulation 45,feature selection,T3,{},Linear regression,test,MSE,0.21
+simulation 45,feature selection,T3,{},Linear regression,test,R2,0.12
+simulation 45,feature selection,T3,{},Linear regression,train,MAE,0.34
+simulation 45,feature selection,T3,{},Linear regression,train,MSE,0.21
+simulation 45,feature selection,T3,{},Linear regression,train,R2,0.12
+simulation 46,feature selection,T3,{},K Nearest Neighbours,test,MAE,0.24
+simulation 46,feature selection,T3,{},K Nearest Neighbours,test,MSE,0.15
+simulation 46,feature selection,T3,{},K Nearest Neighbours,test,R2,0.39
+simulation 46,feature selection,T3,{},K Nearest Neighbours,train,MAE,0.19
+simulation 46,feature selection,T3,{},K Nearest Neighbours,train,MSE,0.09
+simulation 46,feature selection,T3,{},K Nearest Neighbours,train,R2,0.6
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,test,MAE,0.37
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,test,MSE,0.24
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,test,R2,0.02
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,train,MAE,0.37
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,train,MSE,0.23
+simulation 1,feature selection,Fund_Freq1,{},Linear regression,train,R2,0.02
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,test,MAE,0.39
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,test,MSE,0.24
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,test,R2,-0.02
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,train,MAE,0.38
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,train,MSE,0.24
+simulation 2,feature selection,Fund_Freq1,{},K Nearest Neighbours,train,R2,-0.01
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,test,MAE,0.37
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,test,MSE,0.24
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,test,R2,0.02
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,train,MAE,0.37
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,train,MSE,0.23
+simulation 3,feature selection,Fund_Freq2,{},Linear regression,train,R2,0.01
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,test,MAE,0.37
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,test,MSE,0.25
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,test,R2,-0.04
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,train,MAE,0.37
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,train,MSE,0.24
+simulation 4,feature selection,Fund_Freq2,{},K Nearest Neighbours,train,R2,-0.03
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,test,MAE,0.33
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,test,MSE,0.2
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,test,R2,0.19
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,train,MAE,0.33
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,train,MSE,0.19
+simulation 5,feature selection,PGA_of_the_recording_scale_1,{},Linear regression,train,R2,0.18
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,test,MAE,0.28
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,test,MSE,0.16
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,test,R2,0.32
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,train,MAE,0.25
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,train,MSE,0.13
+simulation 6,feature selection,PGA_of_the_recording_scale_1,{},K Nearest Neighbours,train,R2,0.45
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,test,MAE,0.34
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,test,MSE,0.21
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,test,R2,0.13
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,train,MAE,0.34
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,train,MSE,0.21
+simulation 7,feature selection,PGA_of_the_recording_scale_2,{},Linear regression,train,R2,0.14
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,test,MAE,0.3
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,test,MSE,0.18
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,test,R2,0.26
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,train,MAE,0.26
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,train,MSE,0.14
+simulation 8,feature selection,PGA_of_the_recording_scale_2,{},K Nearest Neighbours,train,R2,0.42
+simulation 9,feature selection,b_Hieght,{},Linear regression,test,MAE,0.32
+simulation 9,feature selection,b_Hieght,{},Linear regression,test,MSE,0.2
+simulation 9,feature selection,b_Hieght,{},Linear regression,test,R2,0.18
+simulation 9,feature selection,b_Hieght,{},Linear regression,train,MAE,0.32
+simulation 9,feature selection,b_Hieght,{},Linear regression,train,MSE,0.19
+simulation 9,feature selection,b_Hieght,{},Linear regression,train,R2,0.18
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,test,MAE,0.35
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,test,MSE,0.24
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,test,R2,0.02
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,train,MAE,0.35
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,train,MSE,0.23
+simulation 10,feature selection,b_Hieght,{},K Nearest Neighbours,train,R2,0.04
+simulation 11,feature selection,dim_x,{},Linear regression,test,MAE,0.37
+simulation 11,feature selection,dim_x,{},Linear regression,test,MSE,0.24
+simulation 11,feature selection,dim_x,{},Linear regression,test,R2,0.0
+simulation 11,feature selection,dim_x,{},Linear regression,train,MAE,0.37
+simulation 11,feature selection,dim_x,{},Linear regression,train,MSE,0.24
+simulation 11,feature selection,dim_x,{},Linear regression,train,R2,0.0
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,test,MAE,0.41
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,test,MSE,0.28
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,test,R2,-0.18
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,train,MAE,0.41
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,train,MSE,0.29
+simulation 12,feature selection,dim_x,{},K Nearest Neighbours,train,R2,-0.21
+simulation 13,feature selection,dim_y,{},Linear regression,test,MAE,0.37
+simulation 13,feature selection,dim_y,{},Linear regression,test,MSE,0.24
+simulation 13,feature selection,dim_y,{},Linear regression,test,R2,-0.0
+simulation 13,feature selection,dim_y,{},Linear regression,train,MAE,0.37
+simulation 13,feature selection,dim_y,{},Linear regression,train,MSE,0.24
+simulation 13,feature selection,dim_y,{},Linear regression,train,R2,0.0
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,test,MAE,0.41
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,test,MSE,0.29
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,test,R2,-0.19
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,train,MAE,0.4
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,train,MSE,0.28
+simulation 14,feature selection,dim_y,{},K Nearest Neighbours,train,R2,-0.19
+simulation 15,feature selection,b_st,{},Linear regression,test,MAE,0.32
+simulation 15,feature selection,b_st,{},Linear regression,test,MSE,0.2
+simulation 15,feature selection,b_st,{},Linear regression,test,R2,0.17
+simulation 15,feature selection,b_st,{},Linear regression,train,MAE,0.32
+simulation 15,feature selection,b_st,{},Linear regression,train,MSE,0.19
+simulation 15,feature selection,b_st,{},Linear regression,train,R2,0.18
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,test,MAE,0.39
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,test,MSE,0.26
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,test,R2,-0.1
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,train,MAE,0.39
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,train,MSE,0.26
+simulation 16,feature selection,b_st,{},K Nearest Neighbours,train,R2,-0.12
+simulation 17,feature selection,h_st,{},Linear regression,test,MAE,0.32
+simulation 17,feature selection,h_st,{},Linear regression,test,MSE,0.19
+simulation 17,feature selection,h_st,{},Linear regression,test,R2,0.19
+simulation 17,feature selection,h_st,{},Linear regression,train,MAE,0.32
+simulation 17,feature selection,h_st,{},Linear regression,train,MSE,0.19
+simulation 17,feature selection,h_st,{},Linear regression,train,R2,0.2
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,test,MAE,0.36
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,test,MSE,0.24
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,test,R2,0.01
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,train,MAE,0.36
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,train,MSE,0.23
+simulation 18,feature selection,h_st,{},K Nearest Neighbours,train,R2,0.02
+simulation 19,feature selection,b_gr,{},Linear regression,test,MAE,0.37
+simulation 19,feature selection,b_gr,{},Linear regression,test,MSE,0.24
+simulation 19,feature selection,b_gr,{},Linear regression,test,R2,-0.0
+simulation 19,feature selection,b_gr,{},Linear regression,train,MAE,0.37
+simulation 19,feature selection,b_gr,{},Linear regression,train,MSE,0.24
+simulation 19,feature selection,b_gr,{},Linear regression,train,R2,0.0
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,test,MAE,0.4
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,test,MSE,0.28
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,test,R2,-0.15
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,train,MAE,0.4
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,train,MSE,0.27
+simulation 20,feature selection,b_gr,{},K Nearest Neighbours,train,R2,-0.15
+simulation 21,feature selection,h_gr,{},Linear regression,test,MAE,0.37
+simulation 21,feature selection,h_gr,{},Linear regression,test,MSE,0.24
+simulation 21,feature selection,h_gr,{},Linear regression,test,R2,0.0
+simulation 21,feature selection,h_gr,{},Linear regression,train,MAE,0.37
+simulation 21,feature selection,h_gr,{},Linear regression,train,MSE,0.24
+simulation 21,feature selection,h_gr,{},Linear regression,train,R2,0.0
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,test,MAE,0.39
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,test,MSE,0.26
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,test,R2,-0.1
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,train,MAE,0.39
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,train,MSE,0.26
+simulation 22,feature selection,h_gr,{},K Nearest Neighbours,train,R2,-0.1
+simulation 23,feature selection,E,{},Linear regression,test,MAE,0.37
+simulation 23,feature selection,E,{},Linear regression,test,MSE,0.24
+simulation 23,feature selection,E,{},Linear regression,test,R2,0.0
+simulation 23,feature selection,E,{},Linear regression,train,MAE,0.37
+simulation 23,feature selection,E,{},Linear regression,train,MSE,0.24
+simulation 23,feature selection,E,{},Linear regression,train,R2,0.0
+simulation 24,feature selection,E,{},K Nearest Neighbours,test,MAE,0.28
+simulation 24,feature selection,E,{},K Nearest Neighbours,test,MSE,0.18
+simulation 24,feature selection,E,{},K Nearest Neighbours,test,R2,0.26
+simulation 24,feature selection,E,{},K Nearest Neighbours,train,MAE,0.23
+simulation 24,feature selection,E,{},K Nearest Neighbours,train,MSE,0.13
+simulation 24,feature selection,E,{},K Nearest Neighbours,train,R2,0.47
+simulation 25,feature selection,MstY,{},Linear regression,test,MAE,0.33
+simulation 25,feature selection,MstY,{},Linear regression,test,MSE,0.2
+simulation 25,feature selection,MstY,{},Linear regression,test,R2,0.17
+simulation 25,feature selection,MstY,{},Linear regression,train,MAE,0.32
+simulation 25,feature selection,MstY,{},Linear regression,train,MSE,0.2
+simulation 25,feature selection,MstY,{},Linear regression,train,R2,0.17
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,test,MAE,0.36
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,test,MSE,0.24
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,test,R2,0.01
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,train,MAE,0.36
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,train,MSE,0.23
+simulation 26,feature selection,MstY,{},K Nearest Neighbours,train,R2,0.01
+simulation 27,feature selection,MstX,{},Linear regression,test,MAE,0.33
+simulation 27,feature selection,MstX,{},Linear regression,test,MSE,0.2
+simulation 27,feature selection,MstX,{},Linear regression,test,R2,0.15
+simulation 27,feature selection,MstX,{},Linear regression,train,MAE,0.33
+simulation 27,feature selection,MstX,{},Linear regression,train,MSE,0.2
+simulation 27,feature selection,MstX,{},Linear regression,train,R2,0.15
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,test,MAE,0.3
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,test,MSE,0.19
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,test,R2,0.2
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,train,MAE,0.28
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,train,MSE,0.16
+simulation 28,feature selection,MstX,{},K Nearest Neighbours,train,R2,0.32
+simulation 29,feature selection,Mgr,{},Linear regression,test,MAE,0.37
+simulation 29,feature selection,Mgr,{},Linear regression,test,MSE,0.24
+simulation 29,feature selection,Mgr,{},Linear regression,test,R2,0.0
+simulation 29,feature selection,Mgr,{},Linear regression,train,MAE,0.37
+simulation 29,feature selection,Mgr,{},Linear regression,train,MSE,0.24
+simulation 29,feature selection,Mgr,{},Linear regression,train,R2,0.0
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,test,MAE,0.39
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,test,MSE,0.27
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,test,R2,-0.11
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,train,MAE,0.38
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,train,MSE,0.25
+simulation 30,feature selection,Mgr,{},K Nearest Neighbours,train,R2,-0.07
+simulation 31,feature selection,Lshape,{},Linear regression,test,MAE,0.37
+simulation 31,feature selection,Lshape,{},Linear regression,test,MSE,0.24
+simulation 31,feature selection,Lshape,{},Linear regression,test,R2,0.0
+simulation 31,feature selection,Lshape,{},Linear regression,train,MAE,0.37
+simulation 31,feature selection,Lshape,{},Linear regression,train,MSE,0.24
+simulation 31,feature selection,Lshape,{},Linear regression,train,R2,0.0
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,test,MAE,0.37
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,test,MSE,0.24
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,test,R2,-0.01
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,train,MAE,0.36
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,train,MSE,0.24
+simulation 32,feature selection,Lshape,{},K Nearest Neighbours,train,R2,-0.01
+simulation 33,feature selection,bay2,{},Linear regression,test,MAE,0.37
+simulation 33,feature selection,bay2,{},Linear regression,test,MSE,0.24
+simulation 33,feature selection,bay2,{},Linear regression,test,R2,0.0
+simulation 33,feature selection,bay2,{},Linear regression,train,MAE,0.37
+simulation 33,feature selection,bay2,{},Linear regression,train,MSE,0.24
+simulation 33,feature selection,bay2,{},Linear regression,train,R2,0.0
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,test,MAE,0.38
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,test,MSE,0.26
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,test,R2,-0.08
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,train,MAE,0.38
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,train,MSE,0.25
+simulation 34,feature selection,bay2,{},K Nearest Neighbours,train,R2,-0.07
+simulation 35,feature selection,no_span_2,{},Linear regression,test,MAE,0.37
+simulation 35,feature selection,no_span_2,{},Linear regression,test,MSE,0.24
+simulation 35,feature selection,no_span_2,{},Linear regression,test,R2,0.0
+simulation 35,feature selection,no_span_2,{},Linear regression,train,MAE,0.37
+simulation 35,feature selection,no_span_2,{},Linear regression,train,MSE,0.24
+simulation 35,feature selection,no_span_2,{},Linear regression,train,R2,0.0
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,test,MAE,0.37
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,test,MSE,0.25
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,test,R2,-0.03
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,train,MAE,0.37
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,train,MSE,0.24
+simulation 36,feature selection,no_span_2,{},K Nearest Neighbours,train,R2,-0.03
+simulation 37,feature selection,no_bay_2,{},Linear regression,test,MAE,0.37
+simulation 37,feature selection,no_bay_2,{},Linear regression,test,MSE,0.24
+simulation 37,feature selection,no_bay_2,{},Linear regression,test,R2,0.0
+simulation 37,feature selection,no_bay_2,{},Linear regression,train,MAE,0.37
+simulation 37,feature selection,no_bay_2,{},Linear regression,train,MSE,0.24
+simulation 37,feature selection,no_bay_2,{},Linear regression,train,R2,0.0
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,test,MAE,0.4
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,test,MSE,0.28
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,test,R2,-0.15
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,train,MAE,0.4
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,train,MSE,0.27
+simulation 38,feature selection,no_bay_2,{},K Nearest Neighbours,train,R2,-0.15
+simulation 39,feature selection,no_story_2,{},Linear regression,test,MAE,0.37
+simulation 39,feature selection,no_story_2,{},Linear regression,test,MSE,0.24
+simulation 39,feature selection,no_story_2,{},Linear regression,test,R2,0.01
+simulation 39,feature selection,no_story_2,{},Linear regression,train,MAE,0.37
+simulation 39,feature selection,no_story_2,{},Linear regression,train,MSE,0.24
+simulation 39,feature selection,no_story_2,{},Linear regression,train,R2,0.01
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,test,MAE,0.37
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,test,MSE,0.24
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,test,R2,0.02
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,train,MAE,0.36
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,train,MSE,0.23
+simulation 40,feature selection,no_story_2,{},K Nearest Neighbours,train,R2,0.02
+simulation 41,feature selection,T1,{},Linear regression,test,MAE,0.34
+simulation 41,feature selection,T1,{},Linear regression,test,MSE,0.21
+simulation 41,feature selection,T1,{},Linear regression,test,R2,0.12
+simulation 41,feature selection,T1,{},Linear regression,train,MAE,0.34
+simulation 41,feature selection,T1,{},Linear regression,train,MSE,0.21
+simulation 41,feature selection,T1,{},Linear regression,train,R2,0.12
+simulation 42,feature selection,T1,{},K Nearest Neighbours,test,MAE,0.24
+simulation 42,feature selection,T1,{},K Nearest Neighbours,test,MSE,0.15
+simulation 42,feature selection,T1,{},K Nearest Neighbours,test,R2,0.39
+simulation 42,feature selection,T1,{},K Nearest Neighbours,train,MAE,0.2
+simulation 42,feature selection,T1,{},K Nearest Neighbours,train,MSE,0.1
+simulation 42,feature selection,T1,{},K Nearest Neighbours,train,R2,0.59
+simulation 43,feature selection,T2,{},Linear regression,test,MAE,0.34
+simulation 43,feature selection,T2,{},Linear regression,test,MSE,0.21
+simulation 43,feature selection,T2,{},Linear regression,test,R2,0.12
+simulation 43,feature selection,T2,{},Linear regression,train,MAE,0.34
+simulation 43,feature selection,T2,{},Linear regression,train,MSE,0.21
+simulation 43,feature selection,T2,{},Linear regression,train,R2,0.12
+simulation 44,feature selection,T2,{},K Nearest Neighbours,test,MAE,0.24
+simulation 44,feature selection,T2,{},K Nearest Neighbours,test,MSE,0.15
+simulation 44,feature selection,T2,{},K Nearest Neighbours,test,R2,0.39
+simulation 44,feature selection,T2,{},K Nearest Neighbours,train,MAE,0.19
+simulation 44,feature selection,T2,{},K Nearest Neighbours,train,MSE,0.09
+simulation 44,feature selection,T2,{},K Nearest Neighbours,train,R2,0.6
+simulation 45,feature selection,T3,{},Linear regression,test,MAE,0.34
+simulation 45,feature selection,T3,{},Linear regression,test,MSE,0.21
+simulation 45,feature selection,T3,{},Linear regression,test,R2,0.12
+simulation 45,feature selection,T3,{},Linear regression,train,MAE,0.34
+simulation 45,feature selection,T3,{},Linear regression,train,MSE,0.21
+simulation 45,feature selection,T3,{},Linear regression,train,R2,0.12
+simulation 46,feature selection,T3,{},K Nearest Neighbours,test,MAE,0.24
+simulation 46,feature selection,T3,{},K Nearest Neighbours,test,MSE,0.15
+simulation 46,feature selection,T3,{},K Nearest Neighbours,test,R2,0.39
+simulation 46,feature selection,T3,{},K Nearest Neighbours,train,MAE,0.19
+simulation 46,feature selection,T3,{},K Nearest Neighbours,train,MSE,0.09
+simulation 46,feature selection,T3,{},K Nearest Neighbours,train,R2,0.6

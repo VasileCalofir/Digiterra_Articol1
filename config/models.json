@@ -1,0 +1,20 @@
+{
+    "models": {
+        "Linear regression": {
+            "no_hyper_params": {},
+            "with_hyper_params_optimisation": {},
+            "pareto_color_no_hyper_params": "red",
+            "pareto_color_with_hyper_params": "blue"
+        },
+        "K Nearest Neighbours": {
+            "no_hyper_params": {},
+            "with_hyper_params_optimisation": {
+                "n_neighbors": [3, 5, 11, 15], 
+                "weights": ["uniform", "distance"] 
+            },
+            "pareto_color_no_hyper_params": "green",
+            "pareto_color_with_hyper_params": "blue"
+        }
+    }
+
+}

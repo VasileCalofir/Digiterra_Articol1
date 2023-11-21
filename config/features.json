@@ -1,0 +1,38 @@
+{
+    "all_features": {
+        "set": ["Fund_Freq1", "Fund_Freq2", "PGA_of_the_recording_scale_1",
+                     "PGA_of_the_recording_scale_2", "b_Hieght", "dim_x",
+                     "dim_y",	"b_st", "h_st", "b_gr",
+                     "h_gr",	"E",	"MstY",	"MstX",	"Mgr",	"Lshape",
+                     "bay2",	"no_span_2", "no_bay_2", "no_story_2",	"T1",	"T2",	"T3"],
+        "pareto_marker": "o"},
+
+    "all_best_features_r2": {
+        "set": ["PGA_of_the_recording_scale_1", "PGA_of_the_recording_scale_2",
+                         "T3","T1","T2","E","MstX","Fund_Freq1", "Fund_Freq2"],
+        "pareto_marker": "s"},
+    
+    "best_8_features_r2": {
+        "set": ["PGA_of_the_recording_scale_1", "PGA_of_the_recording_scale_2",
+                         "T3","T1","T2","E","MstX","Fund_Freq1"],
+        "pareto_marker": "D"},
+        
+
+    "best_7_features_r2": {
+        "set": ["PGA_of_the_recording_scale_1", 
+                         "PGA_of_the_recording_scale_2",
+                         "T3","T1","T2","E","MstX"],
+        "pareto_marker": "H"},
+
+    "best_6_features_r2": {
+        "set": ["PGA_of_the_recording_scale_1", 
+                         "PGA_of_the_recording_scale_2",
+                         "T3","T1","T2","E"],
+        "pareto_marker": "^"},
+
+    "best_2_features_r2": {
+        "set": ["PGA_of_the_recording_scale_1", 
+                         "PGA_of_the_recording_scale_2"],
+        "pareto_marker": "v"}
+
+}

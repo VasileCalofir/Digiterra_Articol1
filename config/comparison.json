@@ -1,0 +1,48 @@
+{
+    "simulations": {
+        "simulation 1 best_2_features_r2": {
+            "description": "best_2_features_r2",
+            "features": [
+                "PGA_of_the_recording_scale_1",
+                "PGA_of_the_recording_scale_2"
+            ],
+            "model": {
+                "type": "Linear regression",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 2 best_2_features_r2": {
+            "description": "best_2_features_r2",
+            "features": [
+                "PGA_of_the_recording_scale_1",
+                "PGA_of_the_recording_scale_2"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {}
+            }
+        },
+        "simulation 3 best_2_features_r2": {
+            "description": "best_2_features_r2",
+            "features": [
+                "PGA_of_the_recording_scale_1",
+                "PGA_of_the_recording_scale_2"
+            ],
+            "model": {
+                "type": "K Nearest Neighbours",
+                "hyper_parameters": {
+                    "n_neighbors": [
+                        3,
+                        5,
+                        11,
+                        15
+                    ],
+                    "weights": [
+                        "uniform",
+                        "distance"
+                    ]
+                }
+            }
+        }
+    }
+}
