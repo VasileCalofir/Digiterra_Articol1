@@ -1,0 +1,10 @@
+# sudo python get-pip.py
+#pip install -r requirements.txt
+pandas
+umpy
+matplotlib
+scikit-learn
+psycopg2
+openpyxl
+keras
+tensorflow
