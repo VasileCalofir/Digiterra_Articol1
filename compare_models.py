@@ -54,7 +54,7 @@ if __name__ == '__main__':
     comparison_config_file_name = os.path.join("config", "comparison.json")
     features_config_file_name = os.path.join("config", "features.json")
     models_config_file_name = os.path.join("config", "models.json")
-    data_file_name = "data_P3.csv"
+    data_file_name = os.path.join("CSV_files", "data_P3.csv")
     results_file_name = "results_comparison"
     scaler_options = ["min-max scale"]
     ALL_FEATURES_COUNT = 23

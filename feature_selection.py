@@ -14,7 +14,7 @@ from config import FeatureConfigReader, ModelsConfig, Config
 feature_selection_config_file_name = os.path.join("config", "feature_selection.json")
 features_config_file_name = os.path.join("config", "features.json")
 models_config_file_name = os.path.join("config", "models.json")
-data_file_name = "data_P3.csv"
+data_file_name = os.path.join("CSV_files", "data_P3.csv")
 results_file_name = "results_feature_selection"
 
 # Configuration stage
