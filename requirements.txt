@@ -6,6 +6,5 @@ matplotlib
 scikit-learn
 psycopg2
 openpyxl
-keras
 tensorflow
 SciencePlots

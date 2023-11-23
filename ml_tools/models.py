@@ -8,8 +8,6 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier, KNeighborsRegressor
 from sklearn.neural_network import MLPRegressor
 from sklearn.svm import SVR, LinearSVR
-from keras.models import Sequential
-from keras.layers import Dense
 
 class Model:
     """
